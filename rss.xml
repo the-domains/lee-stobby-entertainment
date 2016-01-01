@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lee Stobby Entertainment]]></title>
+        <description><![CDATA[Lee Stobby Entertainment]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jan 2016 18:40:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016]]></title>
+            <description><![CDATA[<article><h1>2016</h1><p>Welcome to 2016!</p></article>]]></description>
+            <link>undefined2016/index.html</link>
+            <guid isPermaLink="false">99dcded2-14b9-4e77-a5cb-36ada691ac58</guid>
+            <pubDate>Fri, 01 Jan 2016 18:40:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
