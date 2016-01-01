@@ -1,14 +1,28 @@
+name: Lee Stobby Entertainment
+favicon: null
 layout_spectrum: 0.06368671
+typography_spectrum: 0.2622126
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7401434
+  brandColors:
+    - '#ffffff'
+    - '#ffa277'
+    - '#6b6a66'
+    - '#ffd764'
+    - '#c95352'
   brandStrength: 0.4338087
   lightness: 0.7383512
+  saturation: 0.7401434
   rhythmicContrast: 0.4478867
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-typography_spectrum: 0.2622126
-name: Lee Stobby Entertainment
+purpose: []
